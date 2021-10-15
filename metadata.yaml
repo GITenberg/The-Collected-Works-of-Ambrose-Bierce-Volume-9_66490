@@ -1,0 +1,25 @@
+_repo: The-Collected-Works-of-Ambrose-Bierce-Volume-9_66490
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bierce, Ambrose
+    alias: Grile, Dod
+    birthdate: 1842
+    deathdate: 1913
+    gutenberg_agent_id: '206'
+    url: http://www.gutenberg.org/2009/agents/206
+    wikipedia:
+    - http://www.gutenberg.org/ebooks/author/44231
+    - https://en.wikipedia.org/wiki/Ambrose_Bierce
+description: ''
+gutenberg_issued: '2021-10-08'
+identifiers:
+  gutenberg: '66490'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Collected Works of Ambrose Bierce, Volume 9
+url: http://www.gutenberg.org/ebooks/66490
